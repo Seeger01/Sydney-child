@@ -1,0 +1,19 @@
+/*
+ Theme Name:   Sydney Child
+ Theme URI:    http://wordpress.org/themes/sydney
+ Description:  Sydney Child Theme
+ Author:       Patrick Seeger
+ Author URI:   https://pse-designs.com/wordpress1
+ Template:     sydney
+ Version:      1.0.0
+*/
+
+
+.side-title,
+.site-description{
+text-indent:-9999px;
+}
+
+.text-slider h2.maintitle{
+font-size:10vh;
+}
